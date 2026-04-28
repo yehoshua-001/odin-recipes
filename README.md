@@ -2,7 +2,7 @@
 In this project I will make a static website about "Dish Recipes" using HTML to apply, demonstrate, and practice what I learned in the [The Odin Project: Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) (HTML Foundations module).
 
 ## Conclusion
-
+I applied and demonstrated the lessons I learned in HTML Foundations module including proper file path and directories, making HTML boilerplate, using HTML elements, adding necessary information for the recipes, add images, also add relative links and absolute links (with target attribute) for referencing, and managed to finished the project. I also demonstrated and practiced using Git by adding, committing with messages, and pushing the changes to my repository on GitHub.
 
 ## Credits
 **Images** <br/>
