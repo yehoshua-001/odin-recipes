@@ -1,5 +1,8 @@
-body {
+* {
     box-sizing: border-box;
+}
+
+body {
     font-family: Verdana, Garamond, "Gill Sans", sans-serif;
     font-size: 1rem;
     line-height: 1.6;
@@ -11,7 +14,7 @@ body {
 }
 
 header p {
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 700;
     text-align: center;
     background-color: #6F1A07;
@@ -39,12 +42,14 @@ header p {
 h1 {
     color: #A8763E;
     margin-left: 180px;
+    font-size: 50px;
 }
 
 .description {
     margin-bottom: 60px;
     margin-left: 180px;
     margin-right: 180px;
+    padding: 10px;
 }
 
 h2 {
@@ -57,6 +62,7 @@ h2 {
     margin-bottom: 60px;
     margin-left: 180px;
     margin-right: 180px;
+    padding: 10px;
 }
 
 #sinigang,
@@ -67,6 +73,7 @@ h2 {
 }
 
 footer {
+    text-align: center;
     padding: 30px;
     background-color: #6F1A07;
     color: #ECF0F1;
