@@ -6,9 +6,10 @@ I applied and demonstrated the lessons I learned in HTML Foundations module incl
 
 ## Credits
 **Images** <br/>
-**(1)** pork-sinigang-from-asian-inspirations.jpg <br/>
+**(1)** chicken-adobo-from-serious-eats.jpg <br/>
+**Source** [Serious Eats](https://www.seriouseats.com/filipino-style-chicken-adobo-recipe) <br/>
+**(2)** pork-sinigang-from-asian-inspirations.jpg <br/>
 **Source:** [Asian Inspirations](http://asianinspirations.com.au/recipes/filipino-sour-pork-soup-pork-sinigang/) <br/>
-**(2)** mechadong-baka-from-asian-inspirations.jpg <br/>
+**(3)** mechadong-baka-from-asian-inspirations.jpg <br/>
 **Source:** [Asian Inspirations](https://asianinspirations.com.au/recipes/filipino-beef-stew-mechado/) <br/>
-**(3)** kare-kare-from-foodies-ph.jph <br/>
-**Source:** [Foodies PH](https://www.foodies.ph/phnutriasia/recipe/kare-kare-1) <br/>
+
