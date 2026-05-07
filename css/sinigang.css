@@ -11,15 +11,17 @@ body {
     margin-inline: 0;
 }
 
-header,
-.header {
-    font-size: 22px;
+header {
+    font-size: 1rem;
     font-weight: 700;
     text-align: start;
     background-color: #6F1A07;
-    color: #ECF0F1;
+    padding: 20px;
+}
+
+.header {
     margin: 0;
-    padding: 30px;
+    color: #ECF0F1;
     text-decoration: none;
 }
 
@@ -82,13 +84,19 @@ li {
 
 footer {
     text-align: center;
-    padding: 30px;
+    padding: 20px;
     background-color: #6F1A07;
     color: #ECF0F1;
 }
 
+footer p {
+    font-size: 1rem;
+    display: inline-block;
+    margin: 0;
+    margin-inline: 20px;
+}
+
 .footerlink,
 .creator {
-    font-size: 16px;
     color: #ECF0F1;
 }
