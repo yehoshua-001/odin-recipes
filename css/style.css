@@ -11,14 +11,17 @@ body {
     margin-inline: 0;
 }
 
-header p {
-    font-size: 40px;
+header {
+    font-size: 1rem;
     font-weight: 700;
     text-align: center;
     background-color: #6F1A07;
-    color: #ECF0F1;
+    padding: 20px;
+}
+
+header p {
     margin: 0;
-    padding: 15px;
+    color: #ECF0F1;
 }
 
 main {
@@ -70,18 +73,23 @@ h2 {
 #adobo,
 #sinigang,
 #mechado {
-    font-size: 20px;
+    font-size: 1rem;
     text-decoration: none;
 }
 
 footer {
     text-align: center;
-    padding: 30px;
+    padding: 20px;
     background-color: #6F1A07;
     color: #ECF0F1;
 }
 
+footer p {
+    font-size: 1rem;
+    display: inline-block;
+    margin: 0;
+}
+
 .creator {
-    font-size: 16px;
     color: #ECF0F1;
 }
